@@ -12,9 +12,13 @@
 
 ---
 
+<div align="center">
+
 Welcome to my GitHub portfolio! I am a passionate **Machine Learning Engineer** and **Full-Stack Developer** with a deep interest in **Artificial Intelligence**, **Data Science**, and **Scalable Web Architectures**. I am currently pursuing my **B.Tech** at **Madhav Institute of Technology & Science (MITS)**.
 
 I enjoy building intelligent applications that solve complex real-world problems, contributing to open-source, and constantly pushing the boundaries of what's possible with AI.
+
+</div>
 
 ---
 
@@ -62,7 +66,7 @@ I enjoy building intelligent applications that solve complex real-world problems
 
 <table style="padding: 20px; border-spacing: 30px;">
   <tr>
-    <td align="center" width="50%" style="padding: 20px;">
+    <td align="center" width="400" style="padding: 20px;">
       <div style="position: relative;">
         <img src="celcius_ai_banner_1775774613148.png" alt="Celcius AI Voice Assistant" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px; border-radius: 8px;"><br>
         <strong>Celcius AI Voice Assistant</strong><br>
@@ -72,7 +76,7 @@ I enjoy building intelligent applications that solve complex real-world problems
         </a>
       </div>
     </td>
-    <td align="center" width="50%" style="padding: 20px;">
+    <td align="center" width="400" style="padding: 20px;">
       <div style="position: relative;">
         <img src="portfolio_banner_1775774642063.png" alt="Modern Web Portfolio" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px; border-radius: 8px;"><br>
         <strong>Modern Web Portfolio</strong><br>
@@ -84,7 +88,7 @@ I enjoy building intelligent applications that solve complex real-world problems
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="padding: 20px;">
+    <td align="center" width="400" style="padding: 20px;">
       <div style="position: relative;">
         <img src="weather_app_banner_1775774677939.png" alt="SimplyWeather App" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px; border-radius: 8px;"><br>
         <strong>SimplyWeather App</strong><br>
@@ -94,7 +98,7 @@ I enjoy building intelligent applications that solve complex real-world problems
         </a>
       </div>
     </td>
-    <td align="center" width="50%" style="padding: 20px;">
+    <td align="center" width="400" style="padding: 20px;">
       <div style="position: relative;">
         <img src="badminton_banner_1775774694207.png" alt="Badminton Tournament Manager" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px; border-radius: 8px;"><br>
         <strong>Badminton Tournament Manager</strong><br>
@@ -115,12 +119,12 @@ I enjoy building intelligent applications that solve complex real-world problems
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-singh-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-singh-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-singh-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-singh-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" alt="Top Languages" height="180px" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-singh-ai&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-singh-ai&theme=tokyonight&hide_border=true&background=1F222E" alt="GitHub Streak" height="180px" />
 
 </div>
 
